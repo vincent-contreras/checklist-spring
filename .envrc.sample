@@ -1,0 +1,12 @@
+# DB-SPECIFIC SETTINGS
+export DB_TYPE='mysql'
+export DB_HOST='127.0.0.1'
+export DB_PORT='3306'
+export DB_USER='jcfh_user'
+export DB_ROOT_PASSWORD='just_call_for_help_root_pw'
+export DB_PASSWORD='password'
+export DB_NAME='just_call_for_help'
+
+# REDIS-SPECIFIC SETTINGS
+export REDIS_HOST='127.0.0.1'
+export REDIS_PORT='6379'
